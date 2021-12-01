@@ -3,6 +3,8 @@ Basic Python 2.7.16 code for computing some results and the latex/tikz figures o
 
 'Dispatching to Parallel Servers: Solutions of Poisson's Equation for First-Policy Improvement'
 
+https://doi.org/10.1007/s11134-021-09713-y
+
 https://hal.archives-ouvertes.fr/hal-02925284
 https://arxiv.org/abs/1803.10688
 
